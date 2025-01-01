@@ -75,7 +75,6 @@ There are few ways you can contribute to Sukoon
 - By helping in testing and evaluation(please find relevant code in `tests` and `evals` folder)
 - By raising issues in the issues section
 - By contributing to the codebase based on the issues
-- Join the Sukoon team by filling the p+ai volunteer form ([https://peopleplus.ai/volunteer](https://coda.io/form/Volunteer-with-Us_dU44lQvPaxK?Type%20of%20Person=Volunteer&POC=David%20Menezes)) and select the Sukoon project.
 - Submit PRs to the respective branches (e.g. 'icg' or 'langgraph')
 
 For detailed guidelines, please read the guidelines outlined in CONTRIBUTING.md
